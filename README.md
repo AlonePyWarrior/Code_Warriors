@@ -19,7 +19,7 @@ A repository for the students who are involved in a web-app project.
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=figma&logoColor=red" /></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=html&logoColor=green" /></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=css&logoColor=purple" /></span>
-<span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=javascript&logoColor=orange" /></span>
+<span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=orange" /></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" /></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=python&logoColor=blue" /></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" /></span>
