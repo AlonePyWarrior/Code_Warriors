@@ -32,7 +32,7 @@ A repository for the students who are involved in a web-app project.
 
 <strong>If you want to get notified about the future changes Follow this github account.</strong>
 
-First clone the project.
+To have this project on your system you can clone the project.
 
 ```bash
 git clone https://github.com/AlonePyWarrior/Code_Warriors.git
