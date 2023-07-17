@@ -26,6 +26,8 @@ A repository for the students who are involved in a web-app project.
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /></span>
 
+<p>Building an educational website which is mostly text-based and follows the game-base principle.</p>
+
 # How to use?
 
 <strong>If you want to get notified about the future changes Follow this github account.</strong>
