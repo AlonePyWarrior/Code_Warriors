@@ -45,7 +45,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
   <ol>
     <li>
       Watch this <a href="https://www.youtube.com/watch?v=EWv2jnhZErc">
-        video<img src="https://img.shields.io/badge/youtube-#FF0000?style=flat&logo=youtube&logoColor=gray" />
+        video<img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=gray" />
       </a> on youtube and try to create the projects
     </li>
     <li>
