@@ -52,7 +52,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
   </ol>
 </p>
 <P>Feel free to use other resources including:
-  <strong>W3School:</strong>
+  </br><strong>W3School:</strong>
   <ul>
         <li><a href="https://www.w3schools.com/html/">HTML</a></li>
         <li><a href="https://www.w3schools.com/css/">CSS</a></li>
