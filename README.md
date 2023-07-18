@@ -38,3 +38,20 @@ To have this project on your system you can clone the project.
 git clone https://github.com/AlonePyWarrior/Code_Warriors.git
 ```
 
+# Let's learn more about a website structure, shall we?
+<strong>We need to learn more about HTML, CSS, JavaScript</strong>
+<h3>Frist task:</h3>
+<p>
+  <ol>
+    <li>
+      Watch this <a href="https://www.youtube.com/watch?v=EWv2jnhZErc">video</a> on youtube and try to create the projects
+    </li>
+    <li>
+      push the projects to your repository on github
+    </li>  
+  </ol>
+</p>
+
+
+
+
