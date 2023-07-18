@@ -9,7 +9,7 @@ A repository for the students who are involved in a web-app project.
   <a href="#">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" width="100"/>
   </a>
-  <a href="#">
+  <a href="">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100"/>
   </a>
 </div>
