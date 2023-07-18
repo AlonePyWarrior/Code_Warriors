@@ -44,9 +44,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
 <p>
   <ol>
     <li>
-      Watch this <a href="https://www.youtube.com/watch?v=EWv2jnhZErc">
-        video
-      </a> on <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" /> and try to create the projects
+      Watch this <a href="https://www.youtube.com/watch?v=EWv2jnhZErc">video</a> on YouTube and try to create the projects
     </li>
     <li>
       push the projects to your repository on github
