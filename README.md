@@ -51,7 +51,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
     </li>  
   </ol>
 </p>
-<P>Feel free to use other resources including:
+<strong>Feel free to use other resources including:</strong>
   <p>W3School:</p>
   <ul>
         <li><a href="https://www.w3schools.com/html/">HTML</a></li>
