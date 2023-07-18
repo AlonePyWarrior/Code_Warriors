@@ -53,11 +53,10 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
 </p>
 <P>Feel free to use other resources including:
   <ul>
-    <li>
       W3School:
-        <a href="https://www.w3schools.com/html/">HTML</a>
-        <a href="https://www.w3schools.com/css/">CSS</a>
-        <a href="https://www.w3schools.com/js/">JavaScript</a>
+        <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+        <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+        <li><a href="https://www.w3schools.com/js/">JavaScript</a></li>
     </li>
     <li>
       <a href="https://downloadly.ir/elearning/video-tutorials/css-by-gary-simon/">CSS by Gary Simon</a>
