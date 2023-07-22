@@ -66,6 +66,10 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
   </ul>
 </P>
 
+# How to use?
+
+<strong>If you want to get notified about the future changes Follow this github account.</strong>
+
 
 
 
