@@ -50,7 +50,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
       push the projects to your repository on github
     </li>
     <li>
-      how to use git and github?</li> <br/>
+      how to use git and github?</li> 
        Watch<a href="https://faradars.org/courses/fvgit9609-git-github-gitlab"> this course</a>  on faradars.org
     </li>  
   </ol>
