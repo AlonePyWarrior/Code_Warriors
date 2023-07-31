@@ -73,13 +73,13 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
 <p>
   <ol>
     <li>
-      follow <a href="https://www.w3schools.com/html/html_intro.asp">this tutorial of introduction to HTML</a> by w3schools
+      follow <a href="https://www.w3schools.com/html/html_intro.asp">this tutorial on introduction to HTML</a> by w3schools
     </li>
     <li>
-        follow <a href="https://downloadly.ir/elearning/video-tutorials/css-by-gary-simon/">this tutorial of CSS</a> by Garry simone
+        follow <a href="https://downloadly.ir/elearning/video-tutorials/css-by-gary-simon/">this tutorial on CSS</a> by Garry simone
     </li>
     <li>
-        follow <a href="https://www.w3schools.com/js/default.asp">this tutorial of introduction to javascript</a> by w3schools
+        follow <a href="https://www.w3schools.com/js/default.asp">this tutorial on introduction to javascript</a> by w3schools
     </li>
     <li>
         to learn more about javascript you can use <a href="https://www.w3schools.com/js/default.asp">this book</a> as reference 
