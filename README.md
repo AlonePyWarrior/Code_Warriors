@@ -70,7 +70,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
   </ul>
 </P>
 
-
+</br></br>
 <h3>second task:</h3>
 <p>Deepen the knowledge of using HTML, CSS, and JS in web design</p>
 <p>
