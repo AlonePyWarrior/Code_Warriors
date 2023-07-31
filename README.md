@@ -85,7 +85,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
         follow <a href="https://www.w3schools.com/js/default.asp">this tutorial on introduction to javascript</a> by w3schools
     </li>
     <li>
-        to learn more about javascript you can use <a href="https://www.w3schools.com/js/default.asp">this book</a> as reference 
+        to learn more about javascript you can use <a href="http://eloquentjs.ir/01_values.html">this book</a> as reference 
     </li>  
   </ol>
 </p>
