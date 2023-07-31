@@ -51,7 +51,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
     </li>
     <li>
       how to use git and github?</li> <br/>
-       Watch this <a href="[https://www.youtube.com/watch?v=EWv2jnhZErc](https://faradars.org/courses/fvgit9609-git-github-gitlab)">course</a>  on faradars.org
+       Watch<a href="https://faradars.org/courses/fvgit9609-git-github-gitlab"> this course</a>  on faradars.org
     </li>  
   </ol>
 </p>
