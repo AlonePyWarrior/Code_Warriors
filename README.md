@@ -69,11 +69,27 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
     </li>
   </ul>
 </P>
-
+<h3>second task:</h3>
+<p>
+  <ol>
+    <li>
+      follow <a href="https://www.w3schools.com/html/html_intro.asp">this tutorial of introduction to HTML</a> by w3schools
+    </li>
+    <li>
+        follow <a href="https://downloadly.ir/elearning/video-tutorials/css-by-gary-simon/">this tutorial of CSS</a> by Garry simone
+    </li>
+    <li>
+        follow <a href="https://www.w3schools.com/js/default.asp">this tutorial of introduction to javascript</a> by w3schools
+    </li>
+    <li>
+        to learn more about javascript you can use <a href="https://www.w3schools.com/js/default.asp">this book</a> as reference 
+    </li>  
+  </ol>
+</p>
 # How to use?
 
 <strong>If you want to get notified about the future changes Follow this github account.</strong>
-
+<strong>have fun!</strong>
 
 
 
