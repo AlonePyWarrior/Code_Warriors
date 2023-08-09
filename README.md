@@ -89,6 +89,7 @@ git clone https://github.com/AlonePyWarrior/Code_Warriors.git
     </li>  
   </ol>
 </p>
+</br></br>
 <h3>third task:</h3>
 <p>Designing and coding the appearance of the first page of the website, inspired by the first page of the brilliant site</p>
 <p>To complete the third task, you can use the resources introduced in the second task</p>
